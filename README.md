@@ -14,10 +14,8 @@
 * dlib
 * face_recognition
 
-### Packages for Text to Speech
-* gTTS
-* pygame
-
+### Package for Raspberry PI usage
+* RPi.GPIO
 
 ### Installing dlib on Ubuntu, [More](https://www.pyimagesearch.com/2018/01/22/install-dlib-easy-complete-guide/)
 * $ sudo apt-get update
